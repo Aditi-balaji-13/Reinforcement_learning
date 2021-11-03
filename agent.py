@@ -17,6 +17,8 @@ The methods "registered_reset_test" and "compute_action_test" are invoked here.
 The final scoring is based on your agent's performance in this phase. 
 Use the state saved in train phase here. 
 
+Note that the environment the agent is in is available from the variable self.env_name. 
+
 """
 
 
