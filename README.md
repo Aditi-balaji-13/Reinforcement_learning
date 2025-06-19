@@ -181,5 +181,7 @@ You now should be able to see the details of your submission at :
 
 - [Siddhartha Laghuvarapu](https://www.aicrowd.com/participants/siddhartha)
 - RL TAs
+- Aditi Balaji
+- Sriram S M
 
-**Best of Luck** 🎉 
+
